@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CRUD">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-OMQHBPV:DESKTOP-OMQHBPV\simon">
+          <Created>2022-05-28T08:05:35.0143152+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-OMQHBPV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Movies</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="All Diablo Characters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>All Diablo Characters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="All Mountain Peaks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>All Mountain Peaks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Biggest Countries by Population.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Biggest Countries by Population.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Countries and Currency (Euro_Not Euro).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Countries and Currency (Euro_Not Euro).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create View Employees with Job Titles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create View Employees with Job Titles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create View Employees with Salaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create View Employees with Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Distinct Job Titles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Distinct Job Titles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find 5 Best Paid Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find 5 Best Paid Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find all Department Names.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find all Department Names.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Different Employee’s Salaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Different Employee’s Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Employees Except Marketing.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Employees Except Marketing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Employees with Salary More Than.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Employees with Salary More Than.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Employees Without Manager.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Employees Without Manager.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Information About Departments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Information About Departments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find all Information About Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find all Information About Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Email Address of Each Employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Email Address of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find First 10 Started Projects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find First 10 Started Projects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Full Name of Each Employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Full Name of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Names of All Employees by Salary in Range.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Names of All Employees by Salary in Range.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Names of All Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Names of All Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Salary of Each Employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Salary of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Increase Salaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Increase Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Last 7 Hired Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Last 7 Hired Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sort Employees Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Sort Employees Table.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Built_in_Functions">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-OMQHBPV:DESKTOP-OMQHBPV\simon">
+          <Created>2022-05-27T11:15:06.9131294+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-OMQHBPV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>TableReletionsExcercise</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Countries Holding 'A' 3 or More Times.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Countries Holding 'A' 3 or More Times.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create View Employees Hired After 2000 Year.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create View Employees Hired After 2000 Year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Employees Except Engineers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Employees Except Engineers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find All Employees with Rank 2 .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find All Employees with Rank 2 .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find First Names of All Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find First Names of All Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Names_of_All_Employees_by_First_Name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Names_of_All_Employees_by_First_Name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Towns Not Starting With.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Towns Not Starting With.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Towns Starting With.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Towns Starting With.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find Towns with Name Length.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find Towns with Name Length.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find_Names_of_All_employees_by_Last Name .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find_Names_of_All_employees_by_Last Name .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Games from 2011 and 2012 year.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Games from 2011 and 2012 year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Users with IPAdress Like Pattern.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get Users with IPAdress Like Pattern.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Length of Last Name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Length of Last Name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mix of Peak and River Names.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mix of Peak and River Names.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Orders Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Orders Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Rank Employees by Salary.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Rank Employees by Salary.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Show All Games with Duration.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Show All Games with Duration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="User Email Providers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>User Email Providers.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
