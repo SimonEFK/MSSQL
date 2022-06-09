@@ -25,6 +25,6 @@
 | Subqueries and Joins                                                              | [Excercise](https://github.com/SimonEFK/MSSQL/tree/main/Subqueries%20and%20Joins) |
 | Indices and Data Aggregation                                                      | [Excercise](https://github.com/SimonEFK/MSSQL/tree/main/Indices%20and%20Data%20Aggregation) |
 | Functions, Procedures                                                             | [Excercise](https://github.com/SimonEFK/MSSQL/tree/main/Functions%20and%20Stored%20Procedures) |
-| Triggers and Transactions                                                         | [Excercise] |  
+| Triggers and Transactions                                                         | [Excercise](https://github.com/SimonEFK/MSSQL/tree/main/Triggers%20and%20Transactions) |  
 
 </details>
