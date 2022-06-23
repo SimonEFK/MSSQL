@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MSSQL Server Exam - 13 February 2021">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-OMQHBPV:DESKTOP-OMQHBPV\simon">
+          <Created>2022-06-05T17:40:22.5897986+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-OMQHBPV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>SoftUni</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="All User Commits.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>All User Commits.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Average Size.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Average Size.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Commits in Repositories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Commits in Repositories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Commits.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Commits.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Front-end.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Front-end.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Issue Assignment.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Issue Assignment.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Search for Files.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Search for Files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Single Files.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Single Files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-OMQHBPV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-OMQHBPV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
